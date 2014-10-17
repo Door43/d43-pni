@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[pni:home|Door43 (pni)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-pni|d43-pni repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-pni/archive/master.zip|d43-pni.zip]]
+
+**Recent Changes**
+{{changes>ns = pni}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/pni|Ethnologue data]]
+
